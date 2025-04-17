@@ -1,4 +1,5 @@
 # locale-decimal-parser
+[![npm version](https://img.shields.io/npm/v/locale-decimal-parser)](https://www.npmjs.com/package/locale-decimal-parser)
 
 Locale-aware utility for parsing and formatting decimal numbers.  
 Handles thousands and decimal separators automatically based on the user's or a given locale — ideal for forms, reports, and financial data.

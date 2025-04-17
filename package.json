@@ -13,6 +13,7 @@
     "type": "git",
     "url": "https://github.com/tommorgenstern/locale-decimal-parser"
   },
+  "homepage": "https://github.com/your-username/locale-decimal-parser#readme",
   "keywords": [
     "decimal",
     "digit",
